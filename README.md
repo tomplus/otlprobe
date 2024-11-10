@@ -1,7 +1,5 @@
 # otlprobe
 
-![Test](https://github.com/tomplus/otlprobe/workflows/Test/badge.svg)
-
 ## Introduction
 
 This  application works as a service which accepts OTLP signals via HTTP/gRPC.
