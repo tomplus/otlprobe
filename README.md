@@ -1,5 +1,7 @@
 # otlprobe
 
+[![Tests](https://github.com/tomplus/otlprobe/actions/workflows/go.yml/badge.svg)](https://github.com/tomplus/otlprobe/actions/workflows/go.yml)
+
 ## Introduction
 
 This  application works as a service which accepts OTLP signals via HTTP/gRPC.
