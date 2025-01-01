@@ -5,6 +5,7 @@ go 1.22.0
 require (
 	github.com/gdamore/tcell/v2 v2.7.4
 	google.golang.org/grpc v1.69.2
+)
 
 require (
 	github.com/gogo/protobuf v1.3.2 // indirect
