@@ -1,6 +1,7 @@
 module otlprobe
 
 go 1.22.0
+toolchain go1.24.1
 
 require (
 	github.com/gdamore/tcell/v2 v2.7.4
@@ -21,10 +22,10 @@ require (
 	github.com/mattn/go-runewidth v0.0.16 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	go.opentelemetry.io/collector/pdata v1.22.0
-	golang.org/x/net v0.33.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
-	golang.org/x/term v0.27.0 // indirect
-	golang.org/x/text v0.21.0 // indirect
+	golang.org/x/net v0.36.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/term v0.29.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241230172942-26aa7a208def // indirect
 	google.golang.org/protobuf v1.36.1 // indirect
 )
